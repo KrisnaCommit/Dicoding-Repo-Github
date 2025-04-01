@@ -1,2 +1,2 @@
 # Dicoding-Repo-Github
-To satisfy my studies in Visual Studio Programming
+To satisfy my studies for Visual Programming 
